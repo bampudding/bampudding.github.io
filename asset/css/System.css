@@ -341,6 +341,10 @@ i {
     display: none !important;
 }
 
+.display-flex {
+    display: flex !important;
+}
+
 .category, .postsList {
     width: 100%;
     display: flex;
