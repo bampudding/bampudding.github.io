@@ -48,7 +48,7 @@ i {
 	font-style: normal;
 	font-display: swap;
 	font-weight: 300 700;
-	src: url(../font/FiraCodeVariable.woff2) format('woff2-variations'), url(../font/FiraCodeVariable.woff) format('woff-variations');
+	src: local('Fira Code'), url(../font/FiraCodeVariable.woff2) format('woff2-variations'), url(../font/FiraCodeVariable.woff) format('woff-variations');
 }
 
 /* [0] */
