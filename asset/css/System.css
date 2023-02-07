@@ -107,7 +107,7 @@ i {
     line-height: 41px;
 }
 
-.Title1 {
+.Title1, .ruleTitle {
     font-size: 29px;
     font-weight: 600;
     letter-spacing: -.5px;

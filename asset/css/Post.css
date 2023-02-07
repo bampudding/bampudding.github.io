@@ -39,7 +39,6 @@ code.highlighter-rouge {
   .content h3 {
     background: var(--Elevated-Primary);
     border-radius: 8px;
-    padding: 16px;
     font-weight: 550 !important;
     margin-bottom: 24px;
   }
@@ -82,9 +81,13 @@ code.highlighter-rouge {
   .content blockquote {
     margin: 16px 4px;
     padding: 12px 8px;
-    border-left: 6px solid var(--Elevated-Primary);
+    border-left: 6px solid var(--body-color);
   }
-  .content blockquote p { word-break:break-all; }
+
+  .content blockquote p {
+    word-break: break-all;
+  }
+
   .content blockquote ol,
   .content blockquote ul {
     margin-left: 24px;
