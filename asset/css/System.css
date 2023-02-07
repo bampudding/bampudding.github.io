@@ -13,7 +13,8 @@
     --Develoid: #1F84FF;
     --white: #FFF;
     --body-bg: var(--black);
-    --body-bg-80: var(--body-bg)CC;
+    --body-bg-80: #000000CC;
+    --body-bg-60: #00000099;
     --body-color: var(--white);
     --font-sans-serif: -apple-system, "Pretendard Variable", system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -29,6 +30,8 @@
     --Tertiary: #7676801F;
     --Seperated-Transparent: #FFFFFFBF;
     --body-bg: #F2F2F7;
+    --body-bg-80: #FFFFFFCC;
+    --body-bg-60: #FFFFFF99;
     --body-color: var(--black);
 }
 
