@@ -118,7 +118,7 @@
         padding: 0;
     }
 
-    .search-top, .searchResults {
+    .search-top, .searchResults-top {
         width: 1088px !important;
     }
 
@@ -132,6 +132,7 @@
     overflow-y: scroll;
     -ms-overflow-style: none;
     scrollbar-width: none;
+    width: 100%;
 }
 
     .searchResults-top::-webkit-scrollbar {
