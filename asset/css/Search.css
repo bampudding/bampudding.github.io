@@ -96,6 +96,10 @@
     .search-top, .searchResults {
         width: 1088px !important;
     }
+
+    .mobile-search {
+        display: none !important;
+    }
 }
 
 .searchResults {
@@ -114,7 +118,7 @@
     .searchResults > a {
         flex: 0;
     }
-    
+
     .searchResults .search-none {
         flex: 0;
     }
