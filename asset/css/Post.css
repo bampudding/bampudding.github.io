@@ -38,6 +38,11 @@ code.highlighter-rouge {
     padding: 16px;
   }
 
+  .content p {
+    display: flex;
+    flex-direction: row;
+  }
+
   .content img {
     max-width: 100%;
     margin: 0 0 8px 0;
