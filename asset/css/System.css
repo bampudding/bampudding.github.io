@@ -17,7 +17,7 @@
     --body-bg-60: #00000099;
     --body-color: var(--white);
     --font-sans-serif: -apple-system, "Pretendard Variable", system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --font-monospace: "FiraCode Variable", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --font-monospace: "FiraCode Variable", monospace;
     --font-size: 15px;
 }
 
