@@ -2,6 +2,11 @@
     width: 100%;
 }
 
+.content {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
 code.highlighter-rouge {
     padding: 2px 8px;
     border: 0;
