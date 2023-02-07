@@ -111,6 +111,10 @@
         display: none;
     }
 
+    .searchResults > a {
+        flex: 0;
+    }
+    
     .searchResults .search-none {
         flex: 0;
     }
