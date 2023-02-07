@@ -1,1 +1,0 @@
-# develoid.github.io
