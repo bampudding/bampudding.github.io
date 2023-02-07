@@ -96,3 +96,11 @@
         width: 1088px;
     }
 }
+
+.searchResults {
+    display: flex;
+    width: 100%;
+    margin-top: 86px;
+    flex-direction: column;
+    gap: 16px;
+}
