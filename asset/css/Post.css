@@ -21,8 +21,7 @@ code.highlighter-rouge {
   }
   
   .content a {
-    flex: 0;
-    width: auto;
+    display: inline;
     padding: 0 2px;
     color: var(--Develoid);
   }
@@ -36,11 +35,6 @@ code.highlighter-rouge {
     background: var(--Elevated-Primary);
     border-radius: 8px;
     padding: 16px;
-  }
-
-  .content p {
-    display: flex;
-    flex-direction: row;
   }
 
   .content img {
