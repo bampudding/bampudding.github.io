@@ -63,6 +63,7 @@
 }
 
 .back-nomobile {
+    cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +80,6 @@
 }
 
     .back-nomobile > i {
-        cursor: pointer;
         font-size: 20px;
         font-weight: 550;
     }
