@@ -22,13 +22,13 @@
 
 .light {
     --border-color: #00000033;
-    --Elevated-Primary: #F2F2F7;
+    --Elevated-Primary: var(--white);
     --Elevated-Secondary: #7474801A;
     --Elevated-Secondary-NotTransparent: #e9e9ed;
     --Label-Secondary: #3C3C4399;
     --Tertiary: #7676801F;
     --Seperated-Transparent: #FFFFFFBF;
-    --body-bg: var(--white);
+    --body-bg: #F2F2F7;
     --body-color: var(--black);
 }
 
