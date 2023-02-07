@@ -1,22 +1,22 @@
-.content, .content .highlight pre, .code.highlighter-rouge, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .content p, .content ul, .content ol, .content li, .content blockquote, .content hr, .content table, .content th, .content td, .content tr {
+.content, .content pre, .code.highlighter-rouge, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .content p, .content ul, .content ol, .content li, .content blockquote, .content hr, .content table, .content th, .content td, .content tr {
     width: 100%;
 }
 
 code.highlighter-rouge {
     padding: 2px 8px;
     border: 0;
-    border-radius: 4px; /* radius */
+    border-radius: 8px;
     color: #fff;
     background: #8FA9D8;
   }
   
-  .content .highlight pre {
+  .content pre {
     margin: 20px 0;
     padding: 12px;
-    border:0;
-    border-radius: 4px; /* radius */
-    background: #ECEFF1;
-    color: #212121;
+    border: 0;
+    border-radius: 8px;
+    background: var(--Elevated-Secondary);
+    color: var(--body-color);
     white-space: pre-wrap;
   }
   
@@ -40,7 +40,7 @@ code.highlighter-rouge {
     max-width: 100%;
     margin: 0 0 8px 0;
     border: 0;
-    border-radius: 8px; /* radius */
+    border-radius: 8px;
     display: block;
   }
   
@@ -66,7 +66,7 @@ code.highlighter-rouge {
   .content blockquote {
     margin: 16px 4px;
     padding: 12px 8px;
-    border-left: 6px solid #8FA9D8;
+    border-left: 6px solid var(--Elevated-Secondary);
   }
   .content blockquote p { word-break:break-all; }
   .content blockquote ol,
@@ -76,11 +76,11 @@ code.highlighter-rouge {
   
   .content hr {
     border: 0;
-    border-bottom: 1px dashed #ccc;
+    border-bottom: 1px solid var(--border-color);
   }
   
   .content table {
-    border-radius: 4px; /* radius */
+    border-radius: 8px;
     border-collapse: collapse;
   }
   
@@ -90,8 +90,8 @@ code.highlighter-rouge {
   
   .content th,
   .content td {
-    padding:12px;
-    border:1px solid #FFF;
+    padding: 12px;
+    border: 1px solid #FFF;
   }
   
   .content tr{
