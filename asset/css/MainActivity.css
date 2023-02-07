@@ -7,7 +7,7 @@ main {
     align-items: flex-start;
     padding: 48px 16px 80px 16px;
     position: relative;
-    gap: 12px;
+    gap: 4px;
 }
 
 @media (max-height: 599.98px) {
