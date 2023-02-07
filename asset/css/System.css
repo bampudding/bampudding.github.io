@@ -64,6 +64,10 @@ body {
     justify-content: center;
     scrollbar-width: none;
     -ms-overflow-style: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 body::-webkit-scrollbar {
@@ -375,4 +379,11 @@ i {
 
 .pointer {
     cursor: pointer;
+}
+
+.draggable {
+    -webkit-user-select: all;
+    -moz-user-select: all;
+    -ms-user-select: all;
+    user-select: all;
 }
