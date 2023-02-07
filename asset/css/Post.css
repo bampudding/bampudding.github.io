@@ -27,13 +27,21 @@ code.highlighter-rouge {
   }
   
   .content h1 {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-color);
   }
   
   .content h2 {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-color);
   }
   
+  .content h3 {
+    background: var(--body-bg);
+    border-radius: 8px;
+    padding: 8px;
+  }
+
   .content img {
     max-width: 100%;
     margin: 16px auto;
