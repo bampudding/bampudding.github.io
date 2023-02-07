@@ -1,4 +1,4 @@
-.content, .content .highlight pre, .code.highlighter-rouge, .content a, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .content p, .content ul, .content ol, .content li, .content blockquote, .content hr, .content table, .content th, .content td, .content tr {
+.content, .content .highlight pre, .code.highlighter-rouge, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .content p, .content ul, .content ol, .content li, .content blockquote, .content hr, .content table, .content th, .content td, .content tr {
     width: 100%;
 }
 
@@ -21,9 +21,8 @@ code.highlighter-rouge {
   }
   
   .content a {
-    padding: 4px;
-    color: #8FA9D8;
-    transition: 0.5s;
+    padding: 2px;
+    color: var(--Develoid);
   }
   
   .content h2 {
@@ -32,7 +31,7 @@ code.highlighter-rouge {
   }
   
   .content h3 {
-    background: var(--body-bg);
+    background: var(--Elevated-Primary);
     border-radius: 8px;
     padding: 8px;
   }
@@ -67,7 +66,7 @@ code.highlighter-rouge {
   .content blockquote {
     margin: 16px 4px;
     padding: 12px 8px;
-    border-left:6px solid #8FA9D8;
+    border-left: 6px solid #8FA9D8;
   }
   .content blockquote p { word-break:break-all; }
   .content blockquote ol,
