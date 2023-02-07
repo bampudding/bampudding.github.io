@@ -10,14 +10,6 @@ code.highlighter-rouge {
     border-radius: 8px;
   }
   
-  .content .highlight {
-    margin-left: -16px;
-  }
-
-  .content pre .hightlight {
-    margin: auto;
-  }
-  
   .content pre {
     margin: 0;
     border: 0;
