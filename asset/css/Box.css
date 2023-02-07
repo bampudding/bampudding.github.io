@@ -133,7 +133,7 @@
     padding: 12px;
     background: var(--Elevated-Primary);
     position: relative;
-    gap: 6px;
+    gap: 16px;
     border-radius: 8px;
 }
 
