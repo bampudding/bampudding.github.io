@@ -16,6 +16,10 @@
         font-size: 20px;
     }
 
+.mobile-search {
+    margin-bottom: 24px;
+}
+
 .search-top-bg {
     background: var(--body-bg);
     backdrop-filter: blur(20px);
