@@ -13,7 +13,7 @@
     transition: background .2s ease-out;
 }
 
-    .div-search:active {
+    .div-search:active, .div-search:focus {
         background: var(--Tertiary2);
     }
 
