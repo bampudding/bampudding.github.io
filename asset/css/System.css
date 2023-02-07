@@ -32,8 +32,8 @@
     --Tertiary2: #0000001f;
     --Seperated-Transparent: #FFFFFFBF;
     --body-bg: #F2F2F7;
-    --body-bg-80: #FFFFFFCC;
-    --body-bg-60: #FFFFFF99;
+    --body-bg-80: #F2F2F7CC;
+    --body-bg-60: #F2F2F799;
     --body-color: var(--black);
 }
 

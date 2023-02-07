@@ -10,11 +10,43 @@
     color: var(--Label-Secondary);
     gap: 6px;
     border-radius: 8px;
+    transition: background .2s ease-out;
 }
+
+    .div-search:active {
+        background: var(--Tertiary2);
+    }
 
     .div-search i {
         font-size: 20px;
     }
+
+    .div-search input {
+        background: transparent;
+        color: var(--body-color);
+        border: 0;
+        width: 100%;
+        height: min-content;
+        padding: 0;
+        font-family: var(--font-sans-serif);
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: -.4px;
+        line-height: 20px;
+        caret-color: var(--Develoid);
+    }
+    
+        .div-search input:focus {
+            outline: none;
+        }
+    
+        .div-search input::placeholder {
+            color: var(--Label-Secondary);
+            border: 0;
+            font-weight: 400;
+            letter-spacing: -.4px;
+            line-height: 20px;
+        }
 
 .mobile-search {
     margin-bottom: 24px;
@@ -58,33 +90,6 @@
     width: calc(100% - 32px);
     top: 24px;
     height: min-content;
-}
-
-.div-search input {
-    background: transparent;
-    color: var(--body-color);
-    border: 0;
-    width: 100%;
-    height: min-content;
-    padding: 0;
-    font-family: var(--font-sans-serif);
-    font-size: 15px;
-    font-weight: 400;
-    letter-spacing: -.4px;
-    line-height: 20px;
-    caret-color: var(--Develoid);
-}
-
-.div-search input:focus {
-    outline: none;
-}
-
-.div-search input::placeholder {
-    color: var(--Label-Secondary);
-    border: 0;
-    font-weight: 400;
-    letter-spacing: -.4px;
-    line-height: 20px;
 }
 
 .search-cancel {

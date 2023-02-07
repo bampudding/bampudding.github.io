@@ -110,3 +110,7 @@ main {
     .text h3 {
         color: var(--Develoid);
     }
+
+        .text h3:active {
+            opacity: .4;
+        }
