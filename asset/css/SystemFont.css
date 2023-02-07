@@ -45,8 +45,9 @@ i {
 
 @font-face {
 	font-family: 'FiraCode Variable';
-	font-weight: 300 700;
 	font-style: normal;
+	font-display: swap;
+	font-weight: 300 700;
 	src: url(../font/FiraCodeVariable.woff2) format('woff2-variations'), url(../font/FiraCodeVariable.woff) format('woff-variations');
 }
 
