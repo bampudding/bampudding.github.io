@@ -69,8 +69,8 @@ code.highlighter-rouge {
     line-height: 22px;
   }
   
-  .content ul li,
-  .content ol li {
+  .content ul li {
+    margin-top: 4px;
   }
 
   .content li pre {
