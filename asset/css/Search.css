@@ -88,6 +88,10 @@
     width: 68px;
 }
 
+    .search-cancel > p {
+        font-size: 18px;
+    }
+
 @media (min-width: 1280px) {
     .search-wrap {
         padding: 0;
