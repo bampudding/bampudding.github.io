@@ -69,14 +69,19 @@
     border-radius: 8px;
     background: var(--Elevated-Primary);
     color: var(--body-color);
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     position: fixed;
-    bottom: 32px;
-    right: 32px;
+    bottom: 16px;
+    right: 16px;
     box-shadow: 0 8px 16px var(--Tertiary);
     z-index: 6;
 }
+
+    .back-nomobile > i {
+        font-size: 20px;
+        font-weight: 550;
+    }
 
     @media (max-width: 767.98px) {
         .back-nomobile {
