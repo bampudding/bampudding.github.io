@@ -79,6 +79,7 @@
 }
 
     .back-nomobile > i {
+        cursor: pointer;
         font-size: 20px;
         font-weight: 550;
     }
