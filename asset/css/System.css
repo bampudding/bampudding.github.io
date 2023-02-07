@@ -345,6 +345,10 @@ i {
     display: flex !important;
 }
 
+.display-initial {
+    display: initial !important;
+}
+
 .category, .postsList {
     width: 100%;
     display: flex;
