@@ -310,7 +310,7 @@
         display: flex;
         justify-content: space-between;
         width: 1120px;
-        padding: 0px 8px 0 8px;
+        padding: 0px 8px 0 11px;
     }
 
     .HeaderLeft i {
