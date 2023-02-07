@@ -125,7 +125,7 @@ code.highlighter-rouge {
   }
   
   .content th {
-    padding: 24px 16px;
+    padding: 16px;
     border: 1px solid var(--border-color);
   }
   
@@ -140,8 +140,16 @@ code.highlighter-rouge {
   .content tr:nth-child(even) {
   }
 
-  table tr:first-child td {
+  table th td {
     border-top: 0;
+  }
+
+  table th td:first-child {
+    border-left: 0;
+  }
+
+  table th td:last-child {
+    border-right: 0;
   }
 
   table tr td:first-child {
