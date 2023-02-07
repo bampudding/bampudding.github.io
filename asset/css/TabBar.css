@@ -96,12 +96,12 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    background: var(--Seperated-Transparent);
+    background: var(--body-bg);
     position: fixed;
     padding: 0 16px;
     border-right: 1px solid var(--border-color);
     z-index: 2;
-    transition: all .4s ease-in-out;
+    transition: background .2s ease-in-out;
 }
 
     .top {
