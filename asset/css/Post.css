@@ -94,6 +94,7 @@ code.highlighter-rouge {
   }
   
   .content table {
+    background: var(--Elevated-Primary);
     border-collapse: initial;
     border-spacing: 0;
     border-radius: 8px;
@@ -101,19 +102,14 @@ code.highlighter-rouge {
   
   .content th {
     padding: 24px 0;
-    background: var(--Elevated-Primary);
-    border: 1px solid var(--border-color);
   }
   
   .content td {
     padding: 16px;
-    border: 1px solid var(--border-color);
   }
   
   .content tr {
-    background: var(--Elevated-Primary);
   }
   
   .content tr:nth-child(even) {
-    background: var(--Elevated-Primary);
   }
