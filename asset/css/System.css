@@ -341,7 +341,7 @@ i {
     display: none !important;
 }
 
-.category, .postLists {
+.category, .postsList {
     width: 100%;
     display: flex;
     flex-direction: column;
