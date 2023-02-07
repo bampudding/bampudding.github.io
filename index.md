@@ -3,7 +3,7 @@ layout: default
 page_title: DEVELGUIDE
 ---
 
-<div data-include-path="{{site.baseurl}}/develoid.github.io/site/TabBar.html"></div>
+<div data-include-path="{{site.baseurl}}/site/TabBar.html"></div>
 
 <main>
 
