@@ -20,9 +20,13 @@ code.highlighter-rouge {
     white-space: pre-wrap;
   }
   
+  .content p > a {
+    font-weight: 450 !important;
+  }
+  
   .content a {
     display: inline;
-    padding: 0 2px;
+    padding: 0;
     color: var(--Develoid);
   }
   
@@ -35,6 +39,11 @@ code.highlighter-rouge {
     background: var(--Elevated-Primary);
     border-radius: 8px;
     padding: 16px;
+    font-weight: 550 !important;
+  }
+
+  .content strong {
+    font-weight: 550 !important;
   }
 
   .content img {
