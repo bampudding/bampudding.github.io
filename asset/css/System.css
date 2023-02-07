@@ -39,6 +39,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    word-break: keep-all;
 }
 
 @media (prefers-reduced-motion: no-preference) {

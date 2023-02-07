@@ -9,7 +9,7 @@ code.highlighter-rouge {
     border: 0;
     border-radius: 8px;
   }
-  
+
   .content pre {
     margin: 0;
     border: 0;
@@ -52,6 +52,10 @@ code.highlighter-rouge {
   
   .content h3 {
     font-weight: 550 !important;
+    padding: 16px;
+    border-radius: 8px;
+    background: var(--Elevated-Primary);
+    color: var(--body-color);
   }
 
   .content strong {
@@ -83,6 +87,10 @@ code.highlighter-rouge {
   
   .content ul li {
     margin-top: 4px;
+  }
+
+  .content ul,  .content li, .content ol, .content p, .content code {
+    word-break: normal;
   }
 
   .content li pre {
