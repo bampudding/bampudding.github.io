@@ -294,7 +294,7 @@ i {
     flex: 1 0 0px;
     position: relative;
     padding: 0px;
-    gap: 8px;
+    gap: 16px;
 }
 
 .grid-col {
@@ -307,13 +307,12 @@ i {
     flex: 1 0 0px;
     position: relative;
     padding: 0px;
-    gap: 8px;
+    gap: 16px;
 }
 
 @media (max-width: 393.98px) {
     .small {
         flex-direction: column !important;
-        gap: 16px;
     }
 }
 
