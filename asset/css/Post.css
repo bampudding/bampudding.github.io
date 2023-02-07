@@ -13,15 +13,15 @@ code.highlighter-rouge {
   .content pre {
     margin: 0;
     border: 0;
+    padding: 16px;
+    border-radius: 8px;
+    background: var(--Elevated-Primary);
+    color: var(--body-color);
     white-space: pre-wrap;
   }
 
   .content code { 
     font-family: var(--font-monospace);
-    padding: 16px;
-    border-radius: 8px;
-    background: var(--Elevated-Primary);
-    color: var(--body-color);
   }
   
   .content p > a {
@@ -90,7 +90,7 @@ code.highlighter-rouge {
   .content blockquote {
     margin: 16px 4px;
     padding: 12px 8px;
-    border-left: 6px solid var(--body-color);
+    border-left: 6px solid var(--Develoid);
   }
 
   .content blockquote p {
