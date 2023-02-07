@@ -127,7 +127,7 @@
     overflow: scroll;
     display: flex;
     width: 100%;
-    margin-top: 86px;
+    margin-top: 56px;
     flex-direction: column;
     gap: 16px;
 }
