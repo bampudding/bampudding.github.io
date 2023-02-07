@@ -344,3 +344,7 @@ i {
     flex-direction: column;
     gap: 16px;
 }
+
+.pointer {
+    cursor: pointer;
+}

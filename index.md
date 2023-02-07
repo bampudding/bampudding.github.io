@@ -13,7 +13,7 @@ page_title: DEVELGUIDE
   <h1 class="LargeTitle">디벨가이드</h1>
 </div>
 
-<div class="div-search mobile-search">
+<div class="div-search mobile-search pointer">
   <i class="iSearch iRegular"></i>
   <h3 class="Subheadline">테크 지식</h3>
 </div>

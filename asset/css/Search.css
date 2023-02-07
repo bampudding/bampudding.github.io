@@ -84,12 +84,16 @@
 
 .search-cancel {
     justify-content: center;
-    padding: 9px 12px;
-    width: 68px;
+    padding: 0px 8px;
+    display: flex;
+    align-items: center;
+    width: 60px;
+    height: 36px;
 }
 
     .search-cancel > p {
         font-size: 18px;
+        line-height: 1;
     }
 
 @media (min-width: 1280px) {
