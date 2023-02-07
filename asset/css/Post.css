@@ -86,7 +86,7 @@ code.highlighter-rouge {
   }
   
   .content ul li {
-    margin-top: 4px;
+    margin: 2px 0;
   }
 
   .content ul,  .content li, .content ol, .content p, .content code {
