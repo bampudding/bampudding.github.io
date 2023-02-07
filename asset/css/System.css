@@ -100,28 +100,28 @@ i {
     vertical-align: middle;
 }
 
-.LargeTitle {
+.LargeTitle, h1 {
     font-size: 34px;
     font-weight: 700;
     letter-spacing: -.5px;
     line-height: 41px;
 }
 
-.Title1 {
+.Title1, h2 {
     font-size: 28px;
     font-weight: 600;
     letter-spacing: -.5px;
     line-height: 34px;
 }
 
-.Title2 {
+.Title2, h3 {
     font-size: 22px;
     font-weight: 600;
     letter-spacing: -.2px;
     line-height: 30px;
 }
 
-.Title3 {
+.Title3, h4 {
     font-size: 20px;
     font-weight: 600;
     letter-spacing: -.4px;
@@ -135,7 +135,7 @@ i {
     line-height: 20px;
 }
 
-.Body {
+.Body, p {
     font-size: 17px;
     font-weight: 400;
     letter-spacing: -.5px;
@@ -143,16 +143,16 @@ i {
 }
 
 @media (max-width: 380.98px) {
-    .LargeTitle {
+    .LargeTitle, h1{
         font-size: 30px;
     }
 
-    .Title2 {
+    .Title2, h3 {
         font-size: 18px;
         line-height: 28px;
     }
 
-    .Title3 {
+    .Title3, h4 {
         font-size: 17px;
     }
 
@@ -160,7 +160,7 @@ i {
         font-size: 13px;
     }
 
-    .Body {
+    .Body, p {
         font-size: 15px;
     }
 
@@ -178,16 +178,16 @@ i {
 }
 
 @media (min-width: 1280px) {
-    .LargeTitle {
+    .LargeTitle, h1 {
         font-size: 48px;
     }
 
-    .Title2 {
+    .Title2, h3 {
         font-size: 24px;
         line-height: 34px;
     }
 
-    .Title3 {
+    .Title3, h4 {
         font-size: 22px;
     }
 
@@ -195,7 +195,7 @@ i {
         font-size: 17px;
     }
 
-    .Body {
+    .Body, p {
         font-size: 17px;
         letter-spacing: -.3px;
     }
