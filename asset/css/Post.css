@@ -97,13 +97,15 @@ code.highlighter-rouge {
   
   .content table {
     border-radius: 8px;
+    border-style: hidden;
     border-collapse: collapse;
-    border: 1px solid var(--border-color);
+    box-shadow: 0 0 0 1px var(--border-color);
   }
   
   .content th {
     padding: 24px 0;
     background: var(--Elevated-Primary);
+    border: 1px solid var(--border-color);
   }
   
   .content td {
