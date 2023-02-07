@@ -3,7 +3,7 @@
     --black-90: #1A1A1A;
     --black-80: #333333;
     --black-70: #4D4D4D;
-    --border-color: var(--body-color)1A;
+    --border-color: #FFFFF1A;
     --Elevated-Primary: #1C1C1E;
     --Elevated-Secondary: #2C2C2E;
     --Elevated-Secondary-NotTransparent: var(--Elevated-Secondary);
@@ -21,6 +21,7 @@
 }
 
 .light {
+    --border-color: #0000001A;
     --Elevated-Primary: var(--white);
     --Elevated-Secondary: #7474801A;
     --Elevated-Secondary-NotTransparent: #e9e9ed;
