@@ -73,7 +73,7 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        background: var(--Elevated-Secondary);
+        background: var(--Tertiary);
         overflow: visible;
         position: relative;
         padding: 0;
