@@ -6,8 +6,6 @@ code.highlighter-rouge {
     padding: 2px 8px;
     border: 0;
     border-radius: 8px;
-    color: #fff;
-    background: #8FA9D8;
   }
   
   .content pre {
@@ -15,7 +13,7 @@ code.highlighter-rouge {
     padding: 12px;
     border: 0;
     border-radius: 8px;
-    background: var(--Elevated-Secondary);
+    background: var(--Elevated-Primary);
     color: var(--body-color);
     white-space: pre-wrap;
     font-family: var(--font-monospace);
@@ -82,7 +80,7 @@ code.highlighter-rouge {
   .content blockquote {
     margin: 16px 4px;
     padding: 12px 8px;
-    border-left: 6px solid var(--Elevated-Secondary);
+    border-left: 6px solid var(--Elevated-Primary);
   }
   .content blockquote p { word-break:break-all; }
   .content blockquote ol,
@@ -96,10 +94,7 @@ code.highlighter-rouge {
   }
   
   .content table {
-    border-radius: 8px;
-    border-style: hidden;
     border-collapse: collapse;
-    box-shadow: 0 0 0 1px var(--border-color);
   }
   
   .content th {
