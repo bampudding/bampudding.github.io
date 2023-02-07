@@ -97,20 +97,21 @@ code.highlighter-rouge {
   
   .content table {
     border-radius: 8px;
+    border-spacing: 0;
     border-collapse: collapse;
   }
   
-  .content th {
+  .content thead {
     background: var(--Elevated-Primary);
   }
   
-  .content th,
+  .content thead,
   .content td {
-    padding: 12px;
+    padding: 16px;
     border: 0;
   }
   
-  .content tr{
+  .content tr {
     background: var(--Elevated-Secondary);
   }
   
