@@ -83,26 +83,51 @@
     flex-direction: column;
     justify-content: space-between;
     padding: 16px;
-    background: var(--Elevated-Primary);
     position: relative;
+    background-color: var(--white);
+    background-size: auto 40%;
+    background-repeat: no-repeat;
+    background-position: center;
     border-radius: 8px;
 }
 
+    .card-download-A i, .card-download-A p {
+        color: var(--black);
+    }
+
+    .download-small {
+        background-size: auto 25%;
+    }
+
     .download {
-        width: 100%;
+        cursor: pointer;
+        width: min-content;
         height: min-content;
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
         align-items: center;
         overflow: visible;
-        position: relative;
-        padding: 0;
+        position: absolute;
+        bottom: 5px;
+        right: 6px;
+        padding: 6px 8px 5px 8px;
+        border-radius: 8px;
         gap: 4px;
+        transition: background .2s ease-out;
     }
 
+        .download:hover {
+            background: #7676801F;
+        }
+
+        .download:active {
+            background: #0000001F;
+        }
+
         .download > i {
-            font-size: 17px;
+            font-size: 18px;
+            margin-bottom: 1.5px;
         }
 
 .card-logocolor {
