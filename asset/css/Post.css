@@ -31,6 +31,14 @@ code.highlighter-rouge {
     color: var(--Develoid);
   }
   
+  .content h1 {
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .content .LargeTitle {
+    border-bottom: 0 !important;
+  }
+  
   .content h2 {
     padding: 16px 0;
     border-bottom: 1px solid var(--border-color);
