@@ -5,6 +5,7 @@ document.querySelector(".mobile-search").addEventListener("click", function(e){
 
     else {
         document.querySelector('.search-wrap').classList.add('on');
+        document.querySelector('.div-search input').focus();
     }
 });
 
@@ -15,6 +16,7 @@ document.querySelector(".sidebar-search").addEventListener("click", function(e){
 
     else {
         document.querySelector('.search-wrap').classList.add('on');
+        document.querySelector('.div-search input').focus();
     }
 });
 
@@ -25,6 +27,7 @@ document.querySelector(".Search-header").addEventListener("click", function(e){
 
     else {
         document.querySelector('.search-wrap').classList.add('on');
+        document.querySelector('.div-search input').focus();
     }
 });
 
@@ -35,5 +38,6 @@ document.querySelector(".search-cancel").addEventListener("click", function(e){
 
     else {
         document.querySelector('.search-wrap').classList.add('on');
+        document.querySelector('.div-search input').focus();
     }
 });
