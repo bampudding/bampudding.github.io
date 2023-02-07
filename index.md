@@ -3,7 +3,7 @@ layout: default
 page_title: DEVELGUIDE
 ---
 
-<div data-include-path="{{site.baseurl}}/site/TabBar.html"></div>
+<div data-include-path="{{site.baseurl}}/develoid.github.io/site/TabBar.html"></div>
 
 <main>
 
@@ -58,8 +58,8 @@ page_title: DEVELGUIDE
         searchInput: document.querySelector('.searchInput'),
         resultsContainer: document.querySelector('.searchResults'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<a href="{url}" title="{desc}"><li>{title}</li></a>',
-        noResultsText: '<li>검색 결과를 찾을 수 없습니다..ㅠㅜ</li>',
+        searchResultTemplate: '<a href="{url}" title="{desc}"><div class="box-A"><p class="Body f500">{title}</p></div></a>',
+        noResultsText: '<div class="box-A"><p class="Body f500">검색 결과를 찾을 수 없습니다..ㅠㅜ</p></div>',
         limit: 20,
         fuzzy: false,
         exclude: ['Welcome']
