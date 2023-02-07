@@ -129,8 +129,14 @@
 
 
 .searchResults-top {
-    overflow: scroll;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
+
+    .searchResults-top::-webkit-scrollbar {
+        display: none;
+    }
 
     .searchResults_dummy {
         width: 100%;
@@ -143,12 +149,6 @@
         flex-direction: column;
         gap: 16px;
     }
-
-        .searchResult::-webkit-scrollbar {
-            display: none;
-        }
-
-
 
         .searchResults > a {
             flex: 0;
