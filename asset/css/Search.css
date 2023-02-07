@@ -118,7 +118,7 @@
     .searchResults {
         display: flex;
         width: 100%;
-        padding-bottom: 80px;
+        padding-bottom: 16px;
         flex-direction: column;
         gap: 16px;
     }
@@ -142,10 +142,6 @@
 
     .search-top-bg, .searchResults_dummy {
         height: 52px !important;
-    }
-
-    .searchResults {
-        padding-bottom: 16px;
     }
 }
 
