@@ -46,30 +46,36 @@ page_title: DEVELGUIDE
   <div class="divider"></div>
 
   <div class="grid-row row-3-col">
-    <div class="box-A">
-      <div class="box_text-A">
-        <p class="Body f500">라이센스</p>
+    <a href="/license.html">
+      <div class="box-A">
+        <div class="box_text-A">
+          <p class="Body f500">라이센스</p>
+        </div>
+        <div class="box_go">
+          <i class="iArrowKeyRight fill"></i>
+        </div>
       </div>
-      <div class="box_go">
-        <i class="iArrowKeyRight fill"></i>
+    </a>
+    <a href="/participation.html">
+      <div class="box-A">
+        <div class="box_text-A">
+          <p class="Body f500">참여방법</p>
+        </div>
+        <div class="box_go">
+          <i class="iArrowKeyRight fill"></i>
+        </div>
       </div>
-    </div>
-    <div class="box-A">
-      <div class="box_text-A">
-        <p class="Body f500">참여방법</p>
+    </a>
+    <a href="/edit-rules.html">
+      <div class="box-A">
+        <div class="box_text-A">
+          <p class="Body f500">작성방법</p>
+        </div>
+        <div class="box_go">
+          <i class="iArrowKeyRight fill"></i>
+        </div>
       </div>
-      <div class="box_go">
-        <i class="iArrowKeyRight fill"></i>
-      </div>
-    </div>
-    <div class="box-A">
-      <div class="box_text-A">
-        <p class="Body f500">작성방법</p>
-      </div>
-      <div class="box_go">
-        <i class="iArrowKeyRight fill"></i>
-      </div>
-    </div>
+    </a>
   </div>
 
 </div>
