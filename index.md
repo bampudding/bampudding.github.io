@@ -50,7 +50,7 @@ page_title: DEVELGUIDE
 <script>history.scrollRestoration = "manual"</script>
 <script type="text/javascript">
   window.addEventListener('scroll', function(e){
-    let scroll = document.body.scrollTop;
+    let scroll = document.documentElement.scrollTop;
     if (scroll > 48) {
         document.querySelector('.PC-Header').classList.add('Fix');
         document.querySelector('.PC-Header_dummy').classList.remove('display-none');
