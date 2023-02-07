@@ -68,6 +68,7 @@
     letter-spacing: -.4px;
     line-height: 20px;
     caret-color: var(--Develoid);
+    transition: caret .2s ease-out;
 }
 
 .div-search input:focus {
@@ -91,7 +92,7 @@
     height: 36px;
 }
 
-    .search-cancel > p {
+    .search-cancel > h3 {
         font-size: 18px;
         line-height: 1;
     }
