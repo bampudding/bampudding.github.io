@@ -41,6 +41,7 @@ code.highlighter-rouge {
     border-radius: 8px;
     padding: 16px;
     font-weight: 550 !important;
+    margin-bottom: 24px;
   }
 
   .content strong {
