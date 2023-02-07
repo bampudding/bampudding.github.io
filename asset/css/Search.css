@@ -94,7 +94,7 @@
     }
 
     .search-top, .searchResults {
-        width: 1088px;
+        width: 1088px !important;
     }
 }
 
@@ -111,6 +111,6 @@
         display: none;
     }
 
-    .searchResults > a {
+    .searchResults .box-A {
         flex: 0;
     }
