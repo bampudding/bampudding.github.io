@@ -12,13 +12,16 @@ code.highlighter-rouge {
   
   .content pre {
     margin: 0;
-    padding: 12px;
     border: 0;
+    white-space: pre-wrap;
+  }
+
+  .content code { 
+    font-family: var(--font-monospace);
+    padding: 16px;
     border-radius: 8px;
     background: var(--Elevated-Primary);
     color: var(--body-color);
-    white-space: pre-wrap;
-    font-family: var(--font-monospace);
   }
   
   .content p > a {
@@ -32,13 +35,14 @@ code.highlighter-rouge {
   }
   
   .content h1 {
+    padding: 16px 0;
     border-bottom: 1px solid var(--border-color);
   }
 
   .content .LargeTitle {
     border-bottom: 0 !important;
   }
-  
+
   .content h2 {
     padding: 16px 0;
     border-bottom: 1px solid var(--border-color);
