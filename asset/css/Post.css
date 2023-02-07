@@ -99,8 +99,8 @@ code.highlighter-rouge {
   
   .content blockquote {
     margin: 16px 4px;
-    padding: 12px 8px;
-    border-left: 6px solid var(--Develoid);
+    padding: 0 6px;
+    border-left: 2px solid var(--Develoid);
   }
 
   .content blockquote p {
