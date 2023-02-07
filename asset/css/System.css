@@ -135,11 +135,11 @@ i {
     line-height: 20px;
 }
 
-.Body, p {
+.Body, p, li {
     font-size: 17px;
     font-weight: 400;
     letter-spacing: -.5px;
-    line-height: 22px;
+    line-height: 27px;
 }
 
 @media (max-width: 380.98px) {
