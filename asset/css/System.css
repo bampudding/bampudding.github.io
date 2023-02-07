@@ -47,13 +47,11 @@
 html {
     background: var(--body-bg);
     color: var(--body-color);
-    scrollbar-width: none;
-    -ms-overflow-style: none;
 }
 
 html::-webkit-scrollbar {
     display: none;
-  }
+}
 
 body {
     margin: 0;
@@ -62,6 +60,10 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
+}
+
+body::-webkit-scrollbar {
+    display: none;
 }
 
 .flex-row {
