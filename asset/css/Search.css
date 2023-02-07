@@ -13,7 +13,7 @@
     transition: background .2s ease-out;
 }
 
-    .div-search:active, .div-search:focus {
+    .div-search:active {
         background: var(--Tertiary2);
     }
 
@@ -38,6 +38,10 @@
     
         .div-search input:focus {
             outline: none;
+        }
+
+        .div-search input:focus-within {
+            background: var(--Tertiary2);
         }
     
         .div-search input::placeholder {

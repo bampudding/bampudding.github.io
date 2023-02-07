@@ -109,6 +109,7 @@ main {
 
     .text h3 {
         color: var(--Develoid);
+        transition: opacity .2s ease-out;
     }
 
         .text h3:active {
