@@ -47,12 +47,6 @@ page_title: DEVELGUIDE
 </main>
 
 <!-- Script pointing to jekyll-search.js -->
-<script>history.scrollRestoration = "manual"</script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/import.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/theme-toggle.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/header-scroll.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/search_ui.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/jekyll-search.min.js"></script>
 <script type="text/javascript">
       SimpleJekyllSearch({
         searchInput: document.querySelector('.searchInput'),
@@ -64,17 +58,4 @@ page_title: DEVELGUIDE
         fuzzy: false,
         exclude: ['Welcome']
       })
-</script>
-<script type="text/javascript">
-      window.addEventListener('scroll', function(){
-          let scroll = document.body.scrollTop
-          if (scroll > 48) {
-              document.querySelector('.PC-Header').classList.add('Fix');
-              document.querySelector('.PC-Header_dummy').classList.remove('display-none');
-          }
-          else {
-              document.querySelector('.PC-Header').classList.remove('Fix');
-              document.querySelector('.PC-Header_dummy').classList.add('display-none');
-          } 
-      });
 </script>

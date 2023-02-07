@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <style>
-    .Guide {
-        background-color: var(--Tertiary);
-        opacity: var(--opacity-100) !important;
-        font-feature-settings: "ss09" on;
-    }
+<style>
+  .Guide {
+      background-color: var(--Tertiary);
+      opacity: var(--opacity-100) !important;
+      font-feature-settings: "ss09" on;
+  }
 
-    .Guide-tab {
-        opacity: var(--opacity-100) !important;
-        font-feature-settings: "ss09" on;
-    }
+  .Guide-tab {
+      opacity: var(--opacity-100) !important;
+      font-feature-settings: "ss09" on;
+  }
 
-    .Guide-header {
-        opacity: 1 !important;
-    }
+  .Guide-header {
+      opacity: 1 !important;
+  }
 
-    .sidebar-search {
-        display: flex !important;
-    }
+  .sidebar-search {
+      display: flex !important;
+  }
 
-    .search-in-wrap {
-        display: flex !important;
-    }
+  .search-in-wrap {
+      display: flex !important;
+  }
 </style>
-  <body>
-      {% include Search_wrap.html %}
-      {% include Header_guide.html %}
-      {% include SideBar_guide.html %}
-      {{ content }}
-    </div>
-  </body>
+<body>
+  {% include Search_wrap.html %}
+  {% include Header_guide.html %}
+  {% include SideBar_guide.html %}
+  {{ content }}
+</body>
+{% include js.html %}
 </html>
