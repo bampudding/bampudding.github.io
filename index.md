@@ -3,8 +3,6 @@ layout: default
 page_title: DEVELGUIDE
 ---
 
-<div data-include-path="{{site.baseurl}}/site/TabBar.html"></div>
-
 <main>
 
 <div class="Side-Bar_dummy"></div>
@@ -49,7 +47,7 @@ page_title: DEVELGUIDE
     <a href="/license.html">
       <div class="box-A">
         <div class="box_icon-A">
-          <i class="iImage fill"></i>
+          <i class="iShare fill"></i>
         </div>
         <div class="box_text-A">
           <p class="Body f500">라이센스</p>
@@ -62,7 +60,7 @@ page_title: DEVELGUIDE
     <a href="/participation.html">
       <div class="box-A">
         <div class="box_icon-A">
-          <i class="iImage fill"></i>
+          <i class="iInventoryNote fill"></i>
         </div>
         <div class="box_text-A">
           <p class="Body f500">참여방법</p>
@@ -75,7 +73,7 @@ page_title: DEVELGUIDE
     <a href="/edit-rules.html">
       <div class="box-A">
         <div class="box_icon-A">
-          <i class="iImage fill"></i>
+          <i class="iEdit fill"></i>
         </div>
         <div class="box_text-A">
           <p class="Body f500">작성방법</p>
