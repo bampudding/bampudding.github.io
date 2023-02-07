@@ -21,6 +21,7 @@ code.highlighter-rouge {
   }
   
   .content a {
+    width: min-content;
     padding: 2px;
     color: var(--Develoid);
   }
