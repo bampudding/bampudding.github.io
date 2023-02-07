@@ -112,9 +112,9 @@ code.highlighter-rouge {
   }
   
   .content tr {
-    background: var(--Elevated-Secondary);
+    background: var(--Elevated-Primary);
   }
   
   .content tr:nth-child(even) {
-    background: var(--Elevated-Secondary-NotTransparent);
+    background: var(--Elevated-Primary);
   }
