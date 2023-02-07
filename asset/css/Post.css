@@ -54,8 +54,8 @@ code.highlighter-rouge {
     font-weight: 550 !important;
     padding: 16px;
     border-radius: 8px;
-    background: var(--Elevated-Primary);
-    color: var(--body-color);
+    background: var(--Develoid);
+    color: var(--white);
   }
 
   .content strong {
