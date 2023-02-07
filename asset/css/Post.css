@@ -23,7 +23,7 @@ code.highlighter-rouge {
   .content p > a {
     font-weight: 450 !important;
   }
-  
+
   .content a {
     display: inline;
     padding: 0;
@@ -63,7 +63,7 @@ code.highlighter-rouge {
   .content ol {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 8px;
     margin: 0;
     padding-left: 16px;
     line-height: 22px;
