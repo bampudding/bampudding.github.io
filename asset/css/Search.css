@@ -97,10 +97,10 @@
 }
 
 .search-cancel {
-    justify-content: center;
+    justify-content: flex-end;
     display: flex;
     align-items: center;
-    width: 52px;
+    width: 42px;
     height: 32px;
 }
 
