@@ -38,9 +38,7 @@ code.highlighter-rouge {
   
   .content h3 {
     background: var(--Elevated-Primary);
-    border-radius: 8px;
     font-weight: 550 !important;
-    margin-bottom: 24px;
   }
 
   .content strong {
