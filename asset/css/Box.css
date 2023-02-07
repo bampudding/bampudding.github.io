@@ -50,9 +50,14 @@
     position: relative;
     gap: 16px;
     border-radius: 8px;
+    transition: background .2s ease-out;
 }
     .box-A:hover {
-        background: var(--Elevated-Secondary-NotTransparent);
+        background: var(--Tertiary);
+    }
+
+    .box-A:active {
+        background: var(--Tertiary2);
     }
 
     .first {
@@ -135,10 +140,15 @@
     position: relative;
     gap: 6px;
     border-radius: 8px;
+    transition: background .2s ease-out;
 }
 
     .box-C:hover {
-        background: var(--Elevated-Secondary-NotTransparent);
+        background: var(--Tertiary);
+    }
+
+    .box-C:active {
+        background: var(--Tertiary2);
     }
 
     .box-C > i {
