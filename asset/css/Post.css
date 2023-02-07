@@ -98,14 +98,17 @@ code.highlighter-rouge {
     border-collapse: initial;
     border-spacing: 0;
     border-radius: 8px;
+    border: 1px solid transparent;
   }
   
   .content th {
     padding: 24px 0;
+    border: 1px solid var(--border-color);
   }
   
   .content td {
     padding: 16px;
+    border: 1px solid var(--border-color);
   }
   
   .content tr {
