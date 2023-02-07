@@ -55,9 +55,13 @@
     height: min-content;
 }
 
-@media (max-height: 599.98px) {
+@media (max-width: 767.98px) {
+    .search-top-bg {
+        width: 40px;
+    }
+
     .search-top {
-        top: 4px;
+        top: 4px !important;
     }
 }
 
