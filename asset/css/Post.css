@@ -3,6 +3,8 @@
 }
 
 code.highlighter-rouge {
+    background: var(--Develoid);
+    color: var(--white);
     padding: 2px 8px;
     border: 0;
     border-radius: 8px;
@@ -96,13 +98,13 @@ code.highlighter-rouge {
   .content table {
     background: var(--Elevated-Primary);
     border-collapse: initial;
+    border-style: hidden;
     border-spacing: 0;
     border-radius: 8px;
-    border: 1px solid transparent;
   }
   
   .content th {
-    padding: 24px 0;
+    padding: 24px 16px;
     border: 1px solid var(--border-color);
   }
   
@@ -115,4 +117,20 @@ code.highlighter-rouge {
   }
   
   .content tr:nth-child(even) {
+  }
+
+  table tr:first-child td {
+    border-top: 0;
+  }
+
+  table tr td:first-child {
+    border-left: 0;
+  }
+
+  table tr:last-child td {
+    border-bottom: 0;
+  }
+
+  table tr td:last-child {
+    border-right: 0;
   }
