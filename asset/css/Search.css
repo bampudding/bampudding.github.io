@@ -16,6 +16,10 @@
     .div-search:active {
         background: var(--Tertiary2);
     }
+    
+    .div-search:focus-within {
+        background: var(--Tertiary2);
+    }
 
     .div-search i {
         font-size: 20px;
@@ -38,10 +42,6 @@
     
         .div-search input:focus {
             outline: none;
-        }
-
-        .div-search input:focus-within {
-            background: var(--Tertiary2);
         }
     
         .div-search input::placeholder {
