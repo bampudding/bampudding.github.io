@@ -55,3 +55,15 @@
     padding: 0;
     position: absolute;
 }
+
+
+.back-nomobile {
+    background: var(--Elevated-Primary);
+    color: var(--body-color);
+    width: 64px;
+    height: 64px;
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    z-index: 6;
+}

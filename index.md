@@ -6,6 +6,9 @@ page_title: DEVELGUIDE
 <main>
 
 <div class="Side-Bar_dummy"></div>
+<div class="back-nomobile">
+  <i class="iArrowLeft"></i>
+</div>
 
 <div class="h1-with-account">
   <h1 class="LargeTitle">디벨가이드</h1>
