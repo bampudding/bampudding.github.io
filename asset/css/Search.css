@@ -18,6 +18,7 @@
 
 .search-top-bg {
     background: var(--body-bg);
+    backdrop-filter: blur(20px);
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -29,7 +30,7 @@
 }
 
 .search-wrap {
-    background: var(--body-bg-80);
+    background: var(--body-bg);
     display: none;
     justify-content: center;
     flex-direction: row;

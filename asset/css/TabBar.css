@@ -302,7 +302,7 @@
         height: 60px;
         background: var(--body-bg-80);
         border-bottom: 1px solid var(--border-color);
-        backdrop-filter: blur(8px);
+        backdrop-filter: blur(20px);
         top: 0;
     }
 
