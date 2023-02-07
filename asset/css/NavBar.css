@@ -56,6 +56,11 @@
     position: absolute;
 }
 
+@media (min-width: 768px) {
+    .Navigation-Bar {
+        display: none !important;
+    }
+}
 
 .back-nomobile {
     background: var(--Elevated-Primary);
@@ -67,3 +72,9 @@
     right: 32px;
     z-index: 6;
 }
+
+    @media (max-width: 767.98px) {
+        .back-nomobile {
+            display: none;
+        }
+    }
