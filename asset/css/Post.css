@@ -94,7 +94,9 @@ code.highlighter-rouge {
   }
   
   .content table {
-    border-collapse: collapse;
+    border-collapse: initial;
+    border-spacing: 0;
+    border-radius: 8px;
   }
   
   .content th {
