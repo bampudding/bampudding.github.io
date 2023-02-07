@@ -46,7 +46,6 @@
     align-items: center;
     padding: 16px;
     background: var(--Elevated-Primary);
-    flex: 1 0 0px;
     position: relative;
     gap: 16px;
     border-radius: 8px;

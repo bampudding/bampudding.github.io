@@ -111,6 +111,6 @@
         display: none;
     }
 
-    .searchResults .box-A {
+    .searchResults .search-none {
         flex: 0;
     }

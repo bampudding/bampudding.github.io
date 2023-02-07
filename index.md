@@ -59,7 +59,7 @@ page_title: DEVELGUIDE
         resultsContainer: document.querySelector('.searchResults'),
         json: '{{ site.baseurl }}/search.json',
         searchResultTemplate: '<a href="{url}" title="{desc}"><div class="box-A"><p class="Body f500">{title}</p></div></a>',
-        noResultsText: '<div class="box-A"><p class="Body f500">검색 결과를 찾을 수 없습니다..ㅠㅜ</p></div>',
+        noResultsText: '<div class="box-A search-none"><p class="Body f500">검색 결과를 찾을 수 없습니다..ㅠㅜ</p></div>',
         limit: 20,
         fuzzy: false,
         exclude: ['Welcome']
