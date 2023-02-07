@@ -1,5 +1,5 @@
 window.addEventListener('scroll', function(e){
-    let scroll = document.body.scrollTop
+    let scroll = document.documentElement.scrollTop
     console.log(scroll)
     if (scroll > 48) {
         document.querySelector('.PC-Header').classList.add('Fix');
