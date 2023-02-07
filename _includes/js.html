@@ -1,5 +1,7 @@
 <script>history.scrollRestoration = "manual"</script>
-<script type="text/javascript">
+<script async type="text/javascript" src="{{site.baseurl}}/asset/js/import.js"></script>
+<script async type="text/javascript" src="{{site.baseurl}}/asset/js/theme-toggle.js"></script>
+<script defer type="text/javascript">
   window.addEventListener('scroll', function(e){
     let scroll = document.documentElement.scrollTop;
     if (scroll > 24) {
@@ -13,8 +15,6 @@
     }
   });
 </script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/import.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/asset/js/theme-toggle.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/asset/js/search_ui.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/asset/js/jekyll-search.min.js"></script>
 <script type="text/javascript">
