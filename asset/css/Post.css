@@ -1,3 +1,7 @@
+.content {
+    width: 100%;
+}
+
 code.highlighter-rouge {
     padding: 2px 8px;
     border: 0;
@@ -23,39 +27,11 @@ code.highlighter-rouge {
   }
   
   .content h1 {
-    font-size: 30px;
-    margin: 4px 0 16px;
-    padding: 8px 10px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   }
   
   .content h2 {
-    font-size: 26px;
-    margin: 4px 0 16px;
-    padding: 6px 10px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  }
-  
-  .content h3 {
-    margin: 4px 0 16px;
-    padding: 4px 10px;
-    font-size: 22px;
-  }
-  
-  .content h4 {
-    margin: 4px 0 16px;
-    padding: 2px 10px;
-    font-size: 18px;
-  }
-  
-  .content h5 {
-    padding: 2px 10px;
-    font-size: 16px;
-  }
-  
-  .content h6 {
-    padding: 2px 10px;
-    font-size: 14px;
   }
   
   .content img {
@@ -72,17 +48,18 @@ code.highlighter-rouge {
   }
   
   .content p {
-    margin: 16px 16px 32px;
+    margin: 16px 16px 8px;
   }
   
   .content ul,
   .content ol {
-    margin: 16px 0 16px 32px;
+    margin: 8px;
+    padding-left: 16px;
   }
   
   .content ul li,
   .content ol li {
-    margin: 16px 0;
+    margin: 8px;
   }
   
   .content blockquote {
@@ -102,7 +79,6 @@ code.highlighter-rouge {
   }
   
   .content table {
-    width:100%;
     border-radius: 4px; /* radius */
     border-collapse: collapse;
   }
