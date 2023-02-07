@@ -362,6 +362,7 @@
 
         .HeaderRight a > i {
             font-size: 24px;
+            border-radius: 4px;
             margin-bottom: 1px;
             padding: 6px;
             transition: background .2s ease-out;
@@ -376,7 +377,10 @@
 
             .HeaderRight a > i:hover {
                 background: var(--Tertiary);
-                border-radius: 4px;
+            }
+
+            .HeaderRight a > i:active {
+                background: var(--Tertiary2);
             }
 
 .PC-SemiHeader {
