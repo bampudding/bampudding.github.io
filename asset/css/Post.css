@@ -10,6 +10,14 @@ code.highlighter-rouge {
     border-radius: 8px;
   }
   
+  .content .highlight {
+    margin-left: -16px;
+  }
+
+  .content pre .hightlight {
+    margin: auto;
+  }
+  
   .content pre {
     margin: 0;
     border: 0;
@@ -22,7 +30,8 @@ code.highlighter-rouge {
 
   .content code { 
     font-family: var(--font-monospace);
-    line-height: 26px;
+    font-size: 14px;
+    line-height: 24px;
   }
   
   .content p > a {
