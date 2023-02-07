@@ -48,6 +48,9 @@ page_title: DEVELGUIDE
   <div class="grid-row row-3-col">
     <a href="/license.html">
       <div class="box-A">
+        <div class="box_icon-A">
+          <i class="iImage fill"></i>
+        </div>
         <div class="box_text-A">
           <p class="Body f500">라이센스</p>
         </div>
@@ -58,6 +61,9 @@ page_title: DEVELGUIDE
     </a>
     <a href="/participation.html">
       <div class="box-A">
+        <div class="box_icon-A">
+          <i class="iImage fill"></i>
+        </div>
         <div class="box_text-A">
           <p class="Body f500">참여방법</p>
         </div>
@@ -68,6 +74,9 @@ page_title: DEVELGUIDE
     </a>
     <a href="/edit-rules.html">
       <div class="box-A">
+        <div class="box_icon-A">
+          <i class="iImage fill"></i>
+        </div>
         <div class="box_text-A">
           <p class="Body f500">작성방법</p>
         </div>
