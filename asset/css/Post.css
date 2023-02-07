@@ -101,12 +101,13 @@ code.highlighter-rouge {
     border-collapse: collapse;
   }
   
-  .content thead {
+  .content th {
+    padding: 24px 0;
     background: var(--Elevated-Primary);
   }
   
-  .content thead,
   .content td {
+    width: 100%;
     padding: 16px;
     border: 0;
   }
