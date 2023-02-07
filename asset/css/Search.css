@@ -143,6 +143,10 @@
     .search-top-bg, .searchResults_dummy {
         height: 52px !important;
     }
+
+    .searchResults {
+        padding-bottom: 16px;
+    }
 }
 
 @media (min-width: 1280px) {
