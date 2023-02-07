@@ -1,9 +1,19 @@
 ---
 layout: default
 ---
-<h1 class="categoryTitle">{{ page.title }}</h1>
-<div class="content">
-  {{ content }}
-</div>
-{% include postAuthor.html %}
-{% include backButton.html %}
+<main>
+  <div class="Side-Bar_dummy"></div>
+  <div class="h1-with-account">
+    <h1 class="categoryTitle LargeTitle">{{ page.title }}</h1>
+  </div>
+
+  <div class="div-search mobile-search pointer">
+    <i class="iSearch iRegular"></i>
+    <h3 class="Subheadline">테크 지식</h3>
+  </div>
+  
+  <div class="Activity content">
+    {{ content }}
+    {% include postAuthor.html %}
+  </div>
+</main>
