@@ -43,7 +43,9 @@ page_title: DEVELGUIDE
   {% endfor %}
   </div>
 
-  <div class="grid-row">
+  <div class="divider"></div>
+
+  <div class="grid-row row-3-col">
     <div class="box-A">
       <div class="box_text-A">
         <p class="Body f500">라이센스</p>
