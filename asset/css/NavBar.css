@@ -63,6 +63,10 @@
 }
 
 .back-nomobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
     background: var(--Elevated-Primary);
     color: var(--body-color);
     width: 64px;
@@ -70,6 +74,7 @@
     position: fixed;
     bottom: 32px;
     right: 32px;
+    box-shadow: 0 8px 24px 15% #000;
     z-index: 6;
 }
 
