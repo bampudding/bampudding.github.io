@@ -1,6 +1,5 @@
 window.addEventListener('scroll', function(e){
-    let scroll = document.documentElement.scrollTop
-    console.log(scroll)
+    let scroll = document.body.scrollTop;
     if (scroll > 48) {
         document.querySelector('.PC-Header').classList.add('Fix');
         document.querySelector('.PC-Header_dummy').classList.remove('display-none');
