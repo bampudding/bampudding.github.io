@@ -43,6 +43,14 @@ i {
 		content: '\e2505';
 	}
 
+@font-face {
+	font-family: 'Fira Code VF';
+	font-weight: 300 700;
+	font-style: normal;
+	src: url('../font/FiraCodeVariable.woff2') format('woff2-variations'),
+		 url('../font/FiraCodeVariable.woff') format('woff-variations');
+}
+
 /* [0] */
 @font-face {
 	font-family: 'Pretendard Variable';
