@@ -26,11 +26,6 @@ code.highlighter-rouge {
     transition: 0.5s;
   }
   
-  .content h1 {
-    padding-bottom: 16px;
-    border-bottom: 1px solid var(--border-color);
-  }
-  
   .content h2 {
     padding-bottom: 16px;
     border-bottom: 1px solid var(--border-color);
