@@ -23,6 +23,7 @@
 .search-top-bg {
     background: var(--body-bg-60);
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     display: flex;
     justify-content: center;
     flex-direction: row;
