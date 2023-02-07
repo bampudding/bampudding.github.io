@@ -1,0 +1,38 @@
+@*
+2022. 11. 30.
+메인 레이아웃
+Author by HKB
+
+ ㅡ 수정사항
+*@
+<!DOCTYPE html>
+<html lang="kr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex,nofollow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#FAFAFA">
+        <meta name="author" content="Develoid">
+        <meta name="keywords" content="Develoid, Community, Service, Management, Solutions">
+        <meta name="description" content="Develoid community management support service">
+        <title>@ViewData["Title"] | 디벨로이드</title>
+        <link rel="stylesheet" href="~/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="~/css/bootstrap-icons.css"/>
+        <link rel="stylesheet" href="~/css/fonts.css"/>
+        <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/DevelManager.styles.css" asp-append-version="true" />
+    </head>
+    <body>
+        <partial name="~/Views/Shared/_Header.cshtml"/>
+        <div class="container">
+            <main role="main" class="py-5">
+                @RenderBody()
+            </main>
+        </div>
+        <partial name="~/Views/Shared/_Footer.cshtml" />
+        <script src="~/js/jquery-3.6.1.min.js"></script>
+        <script src="~/js/bootstrap.min.js"></script>
+        <script src="~/js/app.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

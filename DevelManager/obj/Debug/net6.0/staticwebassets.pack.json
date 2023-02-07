@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.0.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.1.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.10.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.10.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.11.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.11.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.12.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.12.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.13.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.13.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.14.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.14.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.15.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.15.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.16.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.16.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.17.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.17.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.18.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.18.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.19.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.19.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.2.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.20.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.20.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.21.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.21.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.22.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.22.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.23.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.23.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.24.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.24.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.25.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.25.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.26.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.26.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.27.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.27.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.28.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.28.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.29.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.29.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.3.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.30.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.30.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.31.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.31.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.32.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.32.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.33.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.33.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.34.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.34.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.35.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.35.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.36.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.36.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.37.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.37.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.38.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.38.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.39.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.39.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.4.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.4.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.40.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.40.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.41.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.41.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.42.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.42.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.43.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.43.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.44.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.44.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.45.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.45.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.46.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.46.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.47.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.47.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.48.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.48.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.49.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.49.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.5.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.50.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.50.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.51.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.51.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.52.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.52.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.53.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.53.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.54.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.54.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.55.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.55.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.56.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.56.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.57.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.57.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.58.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.58.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.59.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.59.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.6.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.6.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.60.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.60.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.61.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.61.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.62.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.62.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.63.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.63.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.64.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.64.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.65.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.65.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.66.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.66.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.67.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.67.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.68.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.68.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.69.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.69.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.7.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.70.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.70.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.71.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.71.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.72.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.72.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.73.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.73.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.74.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.74.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.75.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.75.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.76.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.76.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.77.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.77.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.78.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.78.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.79.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.79.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.8.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.8.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.80.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.80.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.81.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.81.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.82.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.82.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.83.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.83.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.84.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.84.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.85.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.85.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.86.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.86.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.87.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.87.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.88.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.88.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.89.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.89.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.9.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.9.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.90.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.90.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\PretendardVariable.subset.91.woff2",
+      "PackagePath": "staticwebassets\\font\\PretendardVariable.subset.91.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\font\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\font\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\font\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\img\\logo-128x128.png",
+      "PackagePath": "staticwebassets\\img\\logo-128x128.png"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\img\\logo-192x192.png",
+      "PackagePath": "staticwebassets\\img\\logo-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\img\\logo-256x256.png",
+      "PackagePath": "staticwebassets\\img\\logo-256x256.png"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\img\\logo-512x512.png",
+      "PackagePath": "staticwebassets\\img\\logo-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\js\\jquery-3.6.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bampu\\GitHub\\develoid\\DevelManager\\DevelManager\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevelManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DevelManager.props",
+      "PackagePath": "build\\DevelManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DevelManager.props",
+      "PackagePath": "buildMultiTargeting\\DevelManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DevelManager.props",
+      "PackagePath": "buildTransitive\\DevelManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
