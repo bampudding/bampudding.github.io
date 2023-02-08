@@ -95,8 +95,8 @@
         font-weight: 550;
     }
 
-    /* @media (max-width: 767.98px) {
+    @media (max-width: 767.98px) {
         .back-nomobile {
-            display: none;
+            bottom: 90px;
         }
-    } */
+    }
