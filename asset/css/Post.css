@@ -2,6 +2,10 @@
     width: 100%;
 }
 
+.content {
+    margin-bottom: 80px;
+}
+
 code.highlighter-rouge {
     background: var(--Develoid);
     color: var(--white);
