@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DevelManager
 build_property.RootNamespace = DevelManager
-build_property.ProjectDir = C:\Users\bampu\GitHub\develoid\DevelManager\DevelManager\
+build_property.ProjectDir = c:\Users\bampu\GitHub\bampudding\bampudding.github.io\DevelManager\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\bampu\GitHub\develoid\DevelManager\DevelManager
+build_property.MSBuildProjectDirectory = c:\Users\bampu\GitHub\bampudding\bampudding.github.io\DevelManager
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Authentication/SignIn.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Authentication/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnbkluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Error/Index.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Error/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Main/Index.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Main/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Main/Privacy.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Main/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Shared/Error.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Shared/_Footer.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Shared/_Header.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Shared/_Layout.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/_ViewImports.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bampu/GitHub/develoid/DevelManager/DevelManager/Views/_ViewStart.cshtml]
+[c:/Users/bampu/GitHub/bampudding/bampudding.github.io/DevelManager/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
