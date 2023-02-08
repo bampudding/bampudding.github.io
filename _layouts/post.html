@@ -5,14 +5,12 @@ layout: default
   <div class="Side-Bar_dummy"></div>
   {% include backButton.html %}
 
-  <div class="div-search mobile-search pointer">
-    <i class="iSearch iRegular"></i>
-    <h3 class="Subheadline">테크 지식</h3>
-  </div>
-
   <div class="Activity content draggable">
     <div class="h1-with-account display-initial">
       <h1 class="categoryTitle LargeTitle">{{ page.title }}</h1>
+      <div class="TitleSearch">
+        <i class="iSearch iRegular"></i>
+      </div>
     </div>
     {{ content }}
   </div>

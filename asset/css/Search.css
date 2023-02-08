@@ -52,6 +52,31 @@
             line-height: 20px;
         }
 
+.TitleSearch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 41px;
+    height: 41px;
+    background: var(--Elevated-Primary);
+    color: var(--body-color);
+    border-radius: 32px;
+    box-shadow: 0 8px 16px var(--Tertiary);
+    transition: background .2s ease-out;
+}
+
+    .TitleSearch:hover {
+        background: var(--Tertiary);
+    }
+
+    .TitleSearch:active {
+        background: var(--Tertiary2);
+    }
+
+    .TitleSearch > i {
+        font-size: 20px;
+    }
+
 .mobile-search {
     margin-bottom: 24px;
 }
